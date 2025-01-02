@@ -30,6 +30,9 @@
         <mxCell id="2Ren05nBFYA0H8QlB7UZ-5" value="Rescoring portfolio/&lt;div&gt;Behaviour analysis&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2Ren05nBFYA0H8QlB7UZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Ren05nBFYA0H8QlB7UZ-8" target="2Ren05nBFYA0H8QlB7UZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Ren05nBFYA0H8QlB7UZ-8" value="Batch Results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="120" width="60" height="80" as="geometry" />
         </mxCell>
@@ -53,10 +56,22 @@
         <mxCell id="2Ren05nBFYA0H8QlB7UZ-13" value="Client evalution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2Ren05nBFYA0H8QlB7UZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Ren05nBFYA0H8QlB7UZ-20" target="2Ren05nBFYA0H8QlB7UZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Ren05nBFYA0H8QlB7UZ-20" value="Online results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="380" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Ren05nBFYA0H8QlB7UZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Ren05nBFYA0H8QlB7UZ-13" target="2Ren05nBFYA0H8QlB7UZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ren05nBFYA0H8QlB7UZ-23" value="Consolidate credit portfolio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ren05nBFYA0H8QlB7UZ-26" value="Credit&lt;br&gt;Portfolio" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ren05nBFYA0H8QlB7UZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Ren05nBFYA0H8QlB7UZ-23" target="2Ren05nBFYA0H8QlB7UZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
